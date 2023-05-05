@@ -1,5 +1,5 @@
 # Text-based-RPG
-Final project for object-oriented programming course
+Final project for object-oriented programming course. This project was done together with Robin Pau
 1. General description and purpose of the project
 The goal of the project was to create a text-based role-playing game. The user ventures into the caves, meets various characters and must survive. 
 The layout of the cave itself is easy to modify as it is saved in 2D array from which the method generates the dungeon for the player.
